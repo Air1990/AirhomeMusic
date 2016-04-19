@@ -1,7 +1,9 @@
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+/.idea/
 .DS_Store
 /build
+/AirhomeMusic.iml
+/AirMusic.iml
+/app/app.iml
 /captures
